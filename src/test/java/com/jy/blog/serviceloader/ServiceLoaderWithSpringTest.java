@@ -1,4 +1,4 @@
-package ch.frankel.blog.serviceloader;
+package com.jy.blog.serviceloader;
 
 import org.assertj.core.api.Assertions;
 import org.springframework.beans.factory.annotation.Autowired;
